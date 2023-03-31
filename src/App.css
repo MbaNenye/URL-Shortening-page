@@ -1,0 +1,85 @@
+.header{
+    display:flex;
+    justify-content: space-between;
+}
+.header button{
+    border:none;
+}
+.logo-nav, .sign-nav{
+    display:flex;
+    justify-content: space-evenly;
+}
+.section{
+    display:flex;
+    flex-direction: row-reverse;
+}
+.section img{
+    width:90%;
+}
+.more{
+    height:70vh;
+    width:80%;
+    margin-top: 30px;
+    padding:10px
+}
+.api{
+    background-image: url('../src/images/bg-shorten-desktop.svg');
+    text-align: center;
+    height:20vh;
+    background-size: cover;
+    background-position: center;
+    background-color: rgb(32, 2, 32);
+  
+}
+input{
+    margin-top:50px;
+    width:70%;
+}
+.stat{
+    text-align: center;
+}
+.allstat{
+    display:flex;
+    position: relative;
+    margin-top:40px;
+}
+.stat-1,.stat-2,.stat-3{
+    height:60vh;
+    width:100vw;
+    background-color: rgb(242, 241, 239);
+    margin:6px;
+    padding:8px;
+    margin-top: 10px;
+}
+.stat-1 img,.stat-2 img,.stat-3 img{
+    background-color: rgb(85, 42, 85);
+    padding:10px;
+    border-radius: 50%;
+    position: absolute;
+    top:-20px;
+}
+.foot{
+    background-image: url('./images/bg-boost-desktop.svg');
+    text-align: center;
+    height:20vh;
+    background-size: cover;
+    background-position: center;
+    background-color: rgb(32, 2, 32);
+}
+.foot h2{
+    color:white;
+}
+.foot button{
+    background-color: aqua;
+    border-radius: 10px;
+    border:none;
+    color:white;
+}
+.last{
+    display:flex;
+    justify-content: space-around;
+}
+.last img{
+    height:25%;
+    margin-top: 10px;
+}
