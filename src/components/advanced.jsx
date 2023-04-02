@@ -8,7 +8,7 @@ function Advanced() {
         <div className='stat'>
         
         <h1>Advanced Statistics</h1>
-        <p>Track how your link sare performing across the web with our advanced statistics dashboard</p>
+        <p>Track how your links are performing across the web with our advanced statistics dashboard</p>
         </div>
         <div className='allstat'>
             <div className='stat-1'>
