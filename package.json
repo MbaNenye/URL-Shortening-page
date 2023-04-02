@@ -22,4 +22,7 @@
     "tailwindcss": "^3.3.1",
     "vite": "^4.2.0"
   }
+  {"homepage" : "https://mbanenye.github.io/",
+  "name" : "URL-Shortening-page",
+  "version": "0.1.0"
 }
